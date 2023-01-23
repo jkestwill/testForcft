@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="length">Length</string>
+    <string name="card_number">Card number</string>
+    <string name="brand">Brand</string>
+    <string name="scheme_network">Scheme/Network</string>
+    <string name="luhn">Luhn</string>
+    <string name="type">Type</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="country">Country</string>
+    <string name="bank">Bank</string>
+    <string name="history">History</string>
+    <string name="length_error">Text length must be less than 19</string>
+    <string name="allow">Allow this app to access your phone</string>
+    <string name="this_allow">This allows you to call the selected number</string>
+    <string name="open_settings">Open settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
